@@ -1,0 +1,2 @@
+nome = "kaiosol"
+print(nome) 
